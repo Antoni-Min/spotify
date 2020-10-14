@@ -1,0 +1,76 @@
+
+
+
+/*Para que ningun elemento del HTML tenga margen ni padding*/
+
+*{
+    margin:0px;
+    padding:0px;
+}
+
+img{
+
+    border-radius: inherit;
+    width: 100px;height: 100px;
+
+
+
+}
+
+
+body{
+
+   
+
+ background-color: white;
+
+}
+
+span#pimientouno:hover{
+   
+    padding-top: 20px;
+    padding-right: 45px;
+    padding-bottom: 20px;
+    padding-left: 45px;
+  
+
+    font-size: 20px;
+   
+   color:white;
+   background-color: green;
+   border-radius: 50px;
+
+}
+
+span#pimientodos:hover{
+   
+    padding-top: 20px;
+    padding-right: 45px;
+    padding-bottom: 20px;
+    padding-left: 45px;
+  
+
+    font-size: 20px;
+   
+   color: black;
+   background-color: cornsilk;
+   border-radius: 50px;
+
+}
+
+#uno{
+
+  background-color: blue;
+
+}
+
+#dos{
+  background-color: violet;
+}
+
+#tres{
+
+  background-color: white
+  ;  
+
+}

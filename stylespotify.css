@@ -1,0 +1,213 @@
+*{
+    margin:0px;
+    padding:0px;
+    font-family: Arial; 
+    }
+
+
+
+header{
+    
+    padding:2% 12% 2% 12%;
+    background-color:#00a8ff;
+    color: blanchedalmond;
+    display:grid;
+    grid-template-columns: 10% 50% 40%;
+
+
+}
+
+#menu{
+
+    
+    display:flex;
+    list-style: none;
+    color: blanchedalmond;
+
+    
+
+}
+
+#menu li{
+
+    
+    flex:auto;
+
+
+}
+
+#menu a{
+
+    text-decoration:none;
+}
+
+header img{
+    
+    padding:2% 12% 2% 12%;
+    border-radius: inherit;
+    width: 100px;height: 100px;
+
+}
+
+#uno{
+    
+    padding:2% 12% 2% 12%;
+    background-color:#00a8ff;
+    color: blanchedalmond;
+}
+
+#cancelar{
+    font-size:25px;
+}
+
+span#pimientouno{
+   
+    padding-top: 10px;
+    padding-right: 45px;
+    padding-bottom: 10px;
+    padding-left: 45px;
+  
+
+    font-size: 20px;
+   
+    color:white;
+    background-color: green;
+    border-radius: 50px;
+
+}
+
+span#pimientouno:hover{
+
+      
+    padding-top: 10px;
+    padding-right: 45px;
+    padding-bottom: 10px;
+    padding-left: 45px;
+  
+
+    font-size: 20px;
+   
+    color:white;
+    background-color: rgb(143, 163, 143);
+    border-radius: 50px;
+
+}
+
+#premium{
+
+    font-size: 80px;
+
+}
+
+#pimientodos{
+   
+    padding-top: 10px;
+    padding-right: 45px;
+    padding-bottom: 10px;
+    padding-left: 45px;
+  
+
+    font-size: 20px;
+   
+   color: black;
+   background-color: cornsilk;
+   border-radius: 50px;
+
+}
+
+#pimientodos:hover{
+
+   padding-top: 20px;
+   padding-bottom: 20px;
+   font-size: 25px;
+
+}
+
+#dos{
+    
+    padding:2% 16% 2% 16%;
+    background-color: #c9f;
+    color: blanchedalmond;
+    text-align:center;
+
+}
+#prueba{
+    font-size:40px;
+}
+
+#tres{
+
+    padding:2% 16% 2% 16%;
+    
+}
+
+#tres p{  
+
+    font-size: 40px;
+    font-weight: bolder;
+    text-align: center;
+}
+
+
+#flexcontainer{
+
+    display:flex;
+    justify-content: center;
+
+    
+
+
+}
+
+#flexcontainer img{
+    width:50%;
+    height:50px;
+}
+
+#cuatro{
+
+    
+    background-color: #f6f4f4
+    ;
+    
+
+
+   }
+
+#cuatro p{
+
+    font-size: 40px;
+    font-weight: bolder;
+    text-align: center;
+}   
+
+#flexcontainerdos{
+
+    display:flex;
+    justify-content: center;
+
+
+}
+
+#flexcontainerdos article{
+
+    width: 15%;
+    background-color: white;
+    margin:10px;
+    padding: 20px;
+    border-radius: 20px;
+    box-shadow: -1px -1px 12px grey;
+}
+
+
+
+footer{
+    
+    padding:2% 12% 2% 12%;
+    background-color: black;
+    color:  #f6f4f4
+    ;
+}
+
+
+
